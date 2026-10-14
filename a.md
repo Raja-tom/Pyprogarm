@@ -41,9 +41,8 @@
  
 **write a program to check whether is an automorphic or not**
 
-**to check whether a number is an new number or not**
-
 **to check whether a number is a perfect number or not**
 
 **to check whether a number is palindrome**
 
+**to check whether a number is an neon number or not**
