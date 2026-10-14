@@ -1,7 +1,7 @@
 a=int(input('enter a number:'))
 
 for p in range(1,a+1):
-    if ((2**(p-1)*((2**(p-1)))))==a:
+    if (2**(p-1)*(2**(p-1)))==a:
         a='it is a perfect number'
         break
     else:
