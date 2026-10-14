@@ -4,7 +4,7 @@ n=str(n)
 p=""
 
 for i in  reversed(n):
-    p+=i
+    p+=i #p=p+i
 
 
 if int(n) == int(p):
