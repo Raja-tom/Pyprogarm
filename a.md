@@ -46,3 +46,16 @@
 **to check whether a number is palindrome**
 
 **to check whether a number is an neon number or not**
+
+**to check whether a number is an peterson number or not**
+
+**to check whether a number is an happy number or not**
+
+**to check whether a number is an duck number or not**
+
+**pyramid**
+
+**reverse pyramid**
+
+**Diamond**
+
