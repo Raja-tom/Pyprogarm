@@ -59,3 +59,16 @@
 
 **Diamond**
 
+**hollow square**
+
+**spy number**
+
+**find GCD of two number without using built-in functions**
+
+**Dissarium number**
+
+**LCM of two number**
+
+**fibonacci series - only even terms**
+
+**get input as string and print it**
