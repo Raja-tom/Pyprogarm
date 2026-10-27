@@ -72,3 +72,13 @@
 **fibonacci series - only even terms**
 
 **get input as string and print it**
+
+**find duplicate char in str**
+
+**first non repating chr in str**
+
+** rm_ordinary_space_chrs_in_string **
+
+** anagram **
+
+**#771leetcode **
